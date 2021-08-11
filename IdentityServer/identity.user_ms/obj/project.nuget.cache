@@ -1,15 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZJPLQCa6FcAFWV1fz9eGUh9CYlzLCK/4/F7pzXrbnz1hFH4I8AMdUV/CnCvi3Erz4GucZdCxuEkBQa44vxhbg==",
+  "dgSpecHash": "ayj3QU6QuVEJKaJUdjlX5hfyNhMD4Am2EfsMWlNpRq2URThOS4DGA++2M1m1bM3QIn0Fu6GigZo96qXR3OiFAg==",
   "success": true,
   "projectFilePath": "D:\\Github\\MicroServicesDotNet5\\IdentityServer\\identity.user_ms\\identity.user_ms.csproj",
   "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.0\\microsoft.identitymodel.jsonwebtokens.6.12.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.0\\microsoft.identitymodel.logging.6.12.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.0\\microsoft.identitymodel.tokens.6.12.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.0\\system.identitymodel.tokens.jwt.6.12.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

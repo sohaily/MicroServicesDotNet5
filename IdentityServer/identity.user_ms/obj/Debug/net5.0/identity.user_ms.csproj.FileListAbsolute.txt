@@ -27,3 +27,36 @@ D:\Micro Services\ms-HospitalMS-using-ocelotAPI-gatway\IdentityServer\identity.u
 D:\Micro Services\ms-HospitalMS-using-ocelotAPI-gatway\IdentityServer\identity.user_ms\obj\Debug\net5.0\ref\identity.user_ms.dll
 D:\Micro Services\ms-HospitalMS-using-ocelotAPI-gatway\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.pdb
 D:\Micro Services\ms-HospitalMS-using-ocelotAPI-gatway\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.genruntimeconfig.cache
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\appsettings.Development.json
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\appsettings.json
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\identity.user_ms.exe
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\identity.user_ms.deps.json
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\identity.user_ms.runtimeconfig.json
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\identity.user_ms.runtimeconfig.dev.json
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\identity.user_ms.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\ref\identity.user_ms.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\identity.user_ms.pdb
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.csproj.AssemblyReference.cache
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.AssemblyInfoInputs.cache
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.AssemblyInfo.cs
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.csproj.CoreCompileInputs.cache
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.MvcApplicationPartsAssemblyInfo.cs
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\staticwebassets\identity.user_ms.StaticWebAssets.Manifest.cache
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\staticwebassets\identity.user_ms.StaticWebAssets.xml
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\scopedcss\bundle\identity.user_ms.styles.css
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.RazorTargetAssemblyInfo.cache
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.csproj.CopyComplete
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\ref\identity.user_ms.dll
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.pdb
+D:\Github\MicroServicesDotNet5\IdentityServer\identity.user_ms\obj\Debug\net5.0\identity.user_ms.genruntimeconfig.cache

@@ -10,7 +10,11 @@
         }
       ],
       "UpstreamPathTemplate": "/getUser",
-      "Key": "User"
+      "Key": "User",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "TestKey",
+        "AllowedScopes": []
+      }
     },
     {
       "DownstreamPathTemplate": "/api/product/getProduct",
