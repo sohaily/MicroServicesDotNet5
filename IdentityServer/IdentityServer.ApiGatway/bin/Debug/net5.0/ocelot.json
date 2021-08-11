@@ -1,0 +1,40 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/user/getUser",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44351"
+        }
+      ],
+      "UpstreamPathTemplate": "/getUser",
+      "Key": "User"
+    },
+    {
+      "DownstreamPathTemplate": "/api/product/getProduct",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44330"
+        }
+      ],
+      "UpstreamPathTemplate": "/getProduct",
+      "Key": "Product"
+    }
+  ],
+  "Aggregates": [
+    {
+      "RouteKeys": [
+        "User",
+        "Product"
+      ],
+      "UpstreamPathTemplate": "/UserAndProduct"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:44388/"
+  }
+}
